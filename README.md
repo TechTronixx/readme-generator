@@ -3,9 +3,9 @@
 This a simple Python script which helps with the creation of README.md files for software projects. It prompts users to input project details such as the project name, author name, description, additional features, and credits. 
 Users can choose between three types of README formats:
 
-- Simple README: Provides a basic structure with project overview and table of contents.
-- Detailed README: Includes detailed sections on features and credits, in addition to project overview.
-- Documentation README: Offers comprehensive documentation structure including installation instructions, usage examples, technology stack, and credits.
+- Simple : Provides a basic structure with project overview and table of contents.
+- Detailed : Includes detailed sections on features and credits, in addition to project overview.
+- Documentation : Offers comprehensive documentation structure including installation instructions, usage examples, technology stack, and credits.
 
 
 ## Requirements
