@@ -10,9 +10,9 @@ Users can choose between three types of README formats:
 
 ## Requirements
 
-- To run the apps, you'll need to have Python installed on your system. You can download it from [here](https://www.python.org/downloads/).
+- To run the script, you'll need to have Python installed on your system. You can download it from [here](https://www.python.org/downloads/).
 
 ## Install 
 - Download, clone, or fork this repository.
-- Open your terminal & navigate to this project folder
+- Open your terminal & navigate to the project folder
 - Run the script using the command `python3 main.py`
