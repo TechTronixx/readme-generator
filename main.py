@@ -16,10 +16,10 @@ def get_additional_credits():
     return input("Enter additional credits: ")
 
 def choose_readme_type():
-    print("Choose the type of README you want to generate:")
-    print("1. Simple README")
-    print("2. Detailed README")
-    print("3. Documentation README")
+    print("Choose the type of readme you want to generate:")
+    print("1. Simple ")
+    print("2. Detailed ")
+    print("3. Documentation Based ")
     choice = input("Enter your choice (1/2/3): ")
     while choice not in ['1', '2', '3']:
         choice = input("Invalid choice. Please enter 1, 2, or 3: ")
